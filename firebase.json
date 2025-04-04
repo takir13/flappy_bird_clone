@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "flappybird-leaderboard",
+                    "appId": "1:371130465618:android:430f2095f4278cc38c0e8b",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "flappybird-leaderboard",
+                    "configurations": {
+                        "android": "1:371130465618:android:430f2095f4278cc38c0e8b",
+                        "ios": "1:371130465618:ios:736163bb7bc822278c0e8b"
+                    }
+                }
+            }
+        }
+    }
+}
